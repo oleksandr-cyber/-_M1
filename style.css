@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+header h1{
+text-align: center;
+}
+i {
+    color: red;
+}
+img {
+    text-align: center;
+    border: 3px aquamarine solid;
+}
